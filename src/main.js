@@ -13,7 +13,7 @@ function createWindow() {
     },
   });
 
-  win.loadURL('https://www.pokejumper.org');
+  win.loadURL('https://pokelegend.github.io/Ai/');
 }
 
 app.whenReady().then(createWindow);
