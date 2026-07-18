@@ -2,7 +2,7 @@
   "name": "pokejumper-desktop",
   "version": "1.0.1",
   "author": "Your Name",
-  "description": "Desktop client for pokelegend.github.io/Ai/",
+  "description": "Desktop client for https://sites.google.com/view/pokejumper-desktop/home",
   "main": "src/main.js",
   "scripts": {
     "start": "electron .",
